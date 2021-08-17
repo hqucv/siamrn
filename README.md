@@ -17,7 +17,7 @@ The full paper is available [here](https://arxiv.org/abs/2104.00829). The raw re
 
 
 <div align="center">
-  <img src="demo/box.gif" width="1080px" />
+  <img src="box.gif" width="1080px" />
   <p>Examples of SiamRN outputs. The green boxes are the results yielded by SiamRN, and other boxes are the results yileded by DiMP and SiamBAN respectively.</p>
 </div>
 
