@@ -21,3 +21,4 @@ The full paper is available [here](https://arxiv.org/abs/2104.00829). The raw re
   <p>Examples of SiamRN outputs. The green boxes are the results yielded by SiamRN, and other boxes are the results yileded by DiMP and SiamBAN respectively.</p>
 </div>
 
+<!-- The usage of this repo is similar with PYSOT and SiamBAN, you can refer to them if need. -->
