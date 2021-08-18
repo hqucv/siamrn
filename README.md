@@ -18,15 +18,9 @@ The raw results are [here](https://drive.google.com/drive/folders/1NfLcvUUcTIdMS
 The code based on the  [SiamBAN](https://github.com/hqucv/siamban)   
 
 
-
-<div align="center">
-  <img src="demo/pipeline.png" width="640px" />
-  <p>The tracking pipeline of SiamRN.</p>
-</div>
-
 <div align="center">
   <img src="demo/box.gif" width="640px" />
   <p>Examples of SiamRN outputs. The green boxes are the results yielded by SiamRN, and other boxes are the results yileded by DiMP and SiamBAN respectively.</p>
 </div>
 
-<!-- The usage of this repo is similar with PYSOT and SiamBAN, you can refer to them if need. -->
+The usage of this repo is similar with PYSOT and SiamBAN, including data pre-processing, training, testing and tunning, refer to [here](https://github.com/hqucv/siamban).
