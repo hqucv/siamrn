@@ -19,6 +19,10 @@ The code based on the  [SiamBAN](https://github.com/hqucv/siamban)
 
 
 
+<div align="center">
+  <img src="demo/pipeline.png" width="1080px" />
+  <p>The tracking pipeline of SiamRN.</p>
+</div>
 
 <div align="center">
   <img src="demo/box.gif" width="1080px" />
