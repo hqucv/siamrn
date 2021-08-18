@@ -4,7 +4,6 @@
 - [x] [VOT2019](https://www.votchallenge.net/vot2019/dataset.html)
 - [x] [OTB100(OTB2015)](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html)
 - [x] [UAV123](https://ivul.kaust.edu.sa/Pages/Dataset-UAV123.aspx)
-- [x] [NFS](http://ci2cv.net/nfs/index.html)
 - [x] [LaSOT](https://cis.temple.edu/lasot/)
 
 ## Download Dataset
