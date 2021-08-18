@@ -1,5 +1,6 @@
 ## Learning to Filter: Siamese Relation Network for Robust Tracking
 
+## Citation
 ```
 @InProceedings{Cheng_2021_CVPR,
     author    = {Cheng, Siyuan and Zhong, Bineng and Li, Guorong and Liu, Xin and Tang, Zhenjun and Li, Xianxian and Wang, Jing},
@@ -25,3 +26,7 @@ The code based on the  [SiamBAN](https://github.com/hqucv/siamban)
 
 ## Using
 The usage of this repo is similar with PYSOT and SiamBAN, including data pre-processing, training, testing and tuning, refer to [here](https://github.com/hqucv/siamban).
+
+## Contact
+If you have any question, please feel free to contact with me.
+E-mail: siyuancheng1019@gmail.com
