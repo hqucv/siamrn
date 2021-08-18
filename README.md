@@ -23,4 +23,4 @@ The code based on the  [SiamBAN](https://github.com/hqucv/siamban)
   <p>Examples of SiamRN outputs. The green boxes are the results yielded by SiamRN, and other boxes are the results yileded by DiMP and SiamBAN respectively.</p>
 </div>
 
-The usage of this repo is similar with PYSOT and SiamBAN, including data pre-processing, training, testing and tunning, refer to [here](https://github.com/hqucv/siamban).
+The usage of this repo is similar with PYSOT and SiamBAN, including data pre-processing, training, testing and tuning, refer to [here](https://github.com/hqucv/siamban).
