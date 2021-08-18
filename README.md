@@ -10,7 +10,7 @@
     pages     = {4421-4431}
 }
 ```
-
+## Paper and Result
 The full paper is available [here](https://arxiv.org/abs/2104.00829).  
 
 The raw results are [here](https://drive.google.com/drive/folders/1NfLcvUUcTIdMSDWGa1PXKL9D-dM4bi4J?usp=sharing) or [here](https://pan.baidu.com/s/1lG7uq5GHGEpfRj-qNpOu4Q) (extraction code: `bw3b`) for comparison.  
@@ -23,4 +23,5 @@ The code based on the  [SiamBAN](https://github.com/hqucv/siamban)
   <p>Examples of SiamRN outputs. The green boxes are the results yielded by SiamRN, and other boxes are the results yileded by DiMP and SiamBAN respectively.</p>
 </div>
 
+## Using
 The usage of this repo is similar with PYSOT and SiamBAN, including data pre-processing, training, testing and tuning, refer to [here](https://github.com/hqucv/siamban).
